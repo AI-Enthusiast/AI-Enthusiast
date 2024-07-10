@@ -1,53 +1,64 @@
-## Developer Portfolio Landing Page Template
+## Hi there, I'm Cormac! 🌻
 
-_Attribution: This starting template was adapted from the template repo by Evanca [here](https://github.com/evanca/quick-portfolio)._
+<img src="images/castle-in-the-sky-castle.gif?raw=true"/>
 
-### Introduction
+## About Me:
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I'm a Data Scientist with a strong foundation in all things compute, and a passion for cracking data problems for valuable insights. I got my Bachelor's in Computer Science (and a minor in Artificial Intelligence and Psychology) from Case Western Reserve University. This gave me a the toolkit to think beyond the possilble
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
+## Technical Skills:
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+**Programming Languages:** Python, R, SQL (PostgreSQL), Java, C, C#, Quarto, Julia, Haskal, HTML/CSS/JS, Scheme
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Python Knowlege:**
+- Packages:
+  - TensorFlow, Keras, Scikit-learn, Numpy, Pandas, NLTK, BeutifulSoup, Selenium, Pytorch
 
-### Markdown
+**Data Engineering:** PostgreSQL, pgAdmin4, Docker, Railway, Web Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Work Experience:
+### Data Scientist:
+...:
+- ...
 
-- Bulleted
-- List
+### Data Science Intern:
+...:
+- ...
 
-1. Numbered
-2. List
+### Master's Student:
+...:
+- ...
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## My Contact Info:
 
-### Roadmap
+Please feel free to reach out to me with any inquiries! I'm always looking for someone to nerd out with.
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+Email: CormacDacker@gmail.com
 
-### References
+Phone: (971) 209-8560 (This is the best way to get a hold of me)
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+[LinkedIn](https://www.linkedin.com/in/cormac-d/)
+
+
+
+
+
+
+<!-
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

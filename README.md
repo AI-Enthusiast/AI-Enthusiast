@@ -4,7 +4,7 @@
 
 ## About Me:
 
-I'm a Data Scientist with a strong foundation in all things compute, and a passion for cracking data problems for valuable insights. I got my Bachelor's in Computer Science (and a minor in Artificial Intelligence and Psychology) from Case Western Reserve University. This gave me a the toolkit to think beyond the possilble
+I'm a Data Scientist with a strong foundation in all things compute, and a passion for cracking data problems for valuable insights. I got my Bachelor's in Computer Science (and a minor in Artificial Intelligence and Psychology) from Case Western Reserve University.
 
 
 ## Technical Skills:

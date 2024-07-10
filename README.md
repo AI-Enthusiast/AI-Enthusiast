@@ -9,9 +9,9 @@ I'm a Data Scientist with a strong foundation in all things compute, and a passi
 
 ## Technical Skills:
 
-**Programming Languages:** Python, R, SQL (PostgreSQL), Java, C, C#, Quarto, Julia, Haskal, HTML/CSS/JS, Scheme
+**Programming Languages:** Python, R, SQL (PostgreSQL), Java, C, C#, Quarto, Julia, Haskell, HTML/CSS/JS, Scheme/Racket, Prolog
 
-**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny)
+**Data Visualization:** Python (Matplotlib, Seaborn, Plotly, Streamlit), R (ggplot and Shiny), PowerBI, Tableau
 
 **Python Knowlege:**
 - Packages:
